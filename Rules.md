@@ -2,7 +2,7 @@
 
 ## My Commitment
 
-### I will code for at least one hour a day for the next 100 days.
+### I will code for at least one hour a day for the next 100 days
 
 ### Start Date
 
