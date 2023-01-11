@@ -8,3 +8,4 @@ If you would like to follow along on my journey I will be posting daily update o
 # Contents
 
 [Log - click to see my progress](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Log.md)
+[Rules](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Rules.md)
