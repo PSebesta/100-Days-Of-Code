@@ -6,3 +6,5 @@ I wanted to challenge myself by learning a coding language and I stumbled on Ang
 If you would like to follow along on my journey I will be posting daily update on my social media platforms and my website. The links are on github profile page :D
 
 # Contents
+
+[Log - click to see my progress](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Log.md)
