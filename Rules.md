@@ -17,3 +17,5 @@ January 11th, 2023
 ## Contents
 
 [Log - click to see my progress](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Log.md)
+
+[Projects](https://github.com/PSebesta/100-Days-Of-Code/tree/main/Projects)
