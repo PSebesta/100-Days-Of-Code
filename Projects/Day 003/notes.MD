@@ -49,3 +49,27 @@ if height >= 120:
 else: 
     print("Sorry, you have to grow taller before you can ride.")
 ```
+
+# Code excersize BMI 2.0
+This was not to bad I ran into issues with indention and my code would not run and skip over a section. I confused myself with inbeded if/ else and elif and what the indention looks like
+
+```python
+height = float(input("enter your height in m: "))
+weight = float(input("enter your weight in kg: "))
+# 🚨 Don't change the code above 👆
+
+#Write your code below this line 👇
+bmi_total = weight / (height ** 2)
+bmi = round(bmi_total)
+if bmi < 18.5:
+    print(f"your bmi is {bmi}, you are underweight.")
+elif bmi < 25:
+    print(f"your bmi is {bmi}, you are normal weight.")
+elif bmi < 30:
+    print(f"your bmi is {bmi}, you are slightly overweight.")
+elif bmi < 35:
+    print(f"your bmi is {bmi}, you are obese.") 
+else:
+    print(f"your bmi is {bmi}, you are clinically obese.") 
+```
+
