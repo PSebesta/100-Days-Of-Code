@@ -88,3 +88,82 @@ else:
     print("no a leap year.")
 ```
 
+The next coding excersise was a pizza order program. This was fun and I learned you dont need else statement in your if/ else statements.
+
+```python
+print("Welcome to Python Pizza Deliveries!")
+size = input("What size pizza do you want? S, M, or L ")
+add_pepperoni = input("Do you want pepperoni? Y or N ")
+extra_cheese = input("Do you want extra cheese? Y or N ")
+
+bill = 0
+
+if size == "S":
+    bill += 15
+elif size == "M":
+    bill += 20
+else:
+    bill += 25
+
+if add_pepperoni == "Y":
+    if size == "S":
+        bill += 2
+    else:
+        bill += 3
+
+if extra_cheese == "Y":
+    bill += 1
+print(f"your final bill is: {bill}")
+```
+
+## logical operators
+A and B: both A and B have to be true for the entire line of code to be true. if they are diffrent than the line would be false.
+```python
+a = 12
+a > 15 and a < 13
+false
+
+a = 12
+a > 10 and a < 13
+true
+```
+C or D: this is used if you only need one condition to be true you would use the "or" if one condition or both conditions are true it will equal true. it will only be false when both conditions are false.
+
+not E: the "not" operator reverses the condition
+
+The code excersie was fun I had more code than the final but it worked! I do need to work on and think through how can I make the code more efficient.
+
+```python
+
+print("Welcome to the Love Calculator!")
+name1 = input("What is your name? \n")
+name2 = input("What is their name? \n")
+
+name1_lowercase = name1.lower()
+name2_lowercase = name2.lower()
+combined_names = name1_lowercase + name2_lowercase
+
+t = combined_names.count("t")
+r = combined_names.count("r")
+u = combined_names.count("u")
+e = combined_names.count("e")
+
+l = combined_names.count("l")
+o = combined_names.count("o")
+v = combined_names.count("v")
+e = combined_names.count("e")
+
+true1 = t + r + u + e
+love1 = l + o + v + e
+
+
+love_score = str(true1) + str(love1)
+int_love_score = int(love_score)
+
+if int_love_score < 10 or int_love_score > 90:
+    print(f"Your score is {int_love_score}, you go together like coke and mentos.")
+elif int_love_score >= 40 and int_love_score <= 50:
+        print(f"Your score is {int_love_score}, you are alright together.")
+else:
+    print(f"Your score is {int_love_score}.")
+```
