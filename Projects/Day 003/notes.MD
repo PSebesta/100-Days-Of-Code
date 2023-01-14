@@ -56,9 +56,7 @@ This was not to bad I ran into issues with indention and my code would not run a
 ```python
 height = float(input("enter your height in m: "))
 weight = float(input("enter your weight in kg: "))
-# 🚨 Don't change the code above 👆
 
-#Write your code below this line 👇
 bmi_total = weight / (height ** 2)
 bmi = round(bmi_total)
 if bmi < 18.5:
@@ -71,5 +69,22 @@ elif bmi < 35:
     print(f"your bmi is {bmi}, you are obese.") 
 else:
     print(f"your bmi is {bmi}, you are clinically obese.") 
+```
+
+The next excersize was a leap year checker. The tricky part about this was the way you can layout the if else statements. I didnt ralize you can put an "if" right after one another wiht out prints statements in between. 
+
+```python
+year = int(input("Which year do you want to check? "))
+
+if year % 4 == 0:
+    if year % 100 == 0:
+        if year % 400 == 0:
+            print("leap year.")
+        else:
+            print("not a leap year.")
+    else:
+        print("leap year.")
+else:
+    print("no a leap year.")
 ```
 
