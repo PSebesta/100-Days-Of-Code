@@ -167,3 +167,8 @@ elif int_love_score >= 40 and int_love_score <= 50:
 else:
     print(f"Your score is {int_love_score}.")
 ```
+
+# day 3 final project
+This project was faily simple and there was a lot of freedom to make it your own. you dont have to tdo the same thing Angela did. I did a little more story telling and my if/ else statements where diffrent as well. 
+
+[Project 3 code](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20003/choose%20your%20own%20adventure.py)
