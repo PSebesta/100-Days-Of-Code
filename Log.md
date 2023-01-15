@@ -11,3 +11,9 @@ My day one final project code can be found here [day_001](https://github.com/PSe
 Todays progress: As I was going through day 1 and now day 2 I decided im going to create a notes.py file to go through the concepts of the day and including that in each day. I worked through all the video and practice coding I found that I get the results but my code is not efficient. There are to many steps to get the outcome. 
 
 My day two final project code can be found here [day_002](https://github.com/PSebesta/100-Days-Of-Code/tree/main/Projects/Day%20002)
+
+### Day 1: January 14, 2023
+
+Todays progress: the 3rd day took me a bit of time to get done it had a good bit of knowledge and challenging exercises you had to think through the solution and test a lot. overall it was great fun and the final project was great and allowed you some creativity.
+
+My day two final project code can be found here [day_003](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20003/choose%20your%20own%20adventure.py)
