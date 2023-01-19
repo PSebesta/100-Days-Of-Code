@@ -28,4 +28,4 @@ My day two final project code can be found here [day_004](https://github.com/PSe
 
 Today progress: I have completed the 5th day project. Today I learned about loops and range functions the basic concepts were not to bad to learn but, just like yesterday when I said we are barley scratching the surface of what you can do with them. Over it was fun and I enjoyed all the coding in this block.
 
-My day two final project code can be found here [day_004](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20004/Rock%20Paper%20Scissors.py)
+My day two final project code can be found here [day_004](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20005/Password%20generator.py)
