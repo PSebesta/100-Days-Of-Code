@@ -18,8 +18,14 @@ Todays progress: the 3rd day took me a bit of time to get done it had a good bit
 
 My day two final project code can be found here [day_003](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20003/choose%20your%20own%20adventure.py)
 
-### Day 4: January 14, 2023
+### Day 4: January 18, 2023
 
 Today progress: the 4th day was a lot of fun I went over randomization and list and some cases of how to use them. with these 2 topic I feel like there is so much more you can do with them and I barely scratched the surface. The final project was a ton of fun you get to build a childhood game and figure out the logic to make it work on the computer.
 
-[day_004](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20004/Rock%20Paper%20Scissors.py)
+My day two final project code can be found here [day_004](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20004/Rock%20Paper%20Scissors.py)
+
+### Day 5: January 19, 2023
+
+Today progress: I have completed the 5th day project. Today I learned about loops and range functions the basic concepts were not to bad to learn but, just like yesterday when I said we are barley scratching the surface of what you can do with them. Over it was fun and I enjoyed all the coding in this block.
+
+My day two final project code can be found here [day_004](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20004/Rock%20Paper%20Scissors.py)
