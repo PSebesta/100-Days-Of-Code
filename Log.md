@@ -34,4 +34,4 @@ My day two final project code can be found here [day_005](https://github.com/PSe
 
 Today progress: I have completed the 6th day training and project. This day you dont use the traditional IDE and you use the reborgs world game. It was actually a lot of fun and there are more games than angela goes over in the training. The final project was challenging but very simple from the coding side of it (not al ot of code to use)
 
-My day two final project code can be found here [day_006](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20005/Password%20generator.py)
+My day two final project code can be found here [day_006](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20006/Escaping%20the%20maze.py)
