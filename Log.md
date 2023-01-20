@@ -29,3 +29,9 @@ My day two final project code can be found here [day_004](https://github.com/PSe
 Today progress: I have completed the 5th day project. Today I learned about loops and range functions the basic concepts were not to bad to learn but, just like yesterday when I said we are barley scratching the surface of what you can do with them. Over it was fun and I enjoyed all the coding in this block.
 
 My day two final project code can be found here [day_005](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20005/Password%20generator.py)
+
+### Day 6: January 20, 2023
+
+Today progress: I have completed the 6th day training and project. This day you dont use the traditional IDE and you use the reborgs world game. It was actually a lot of fun and there are more games than angela goes over in the training. The final project was challenging but very simple from the coding side of it (not al ot of code to use)
+
+My day two final project code can be found here [day_006](https://github.com/PSebesta/100-Days-Of-Code/blob/main/Projects/Day%20005/Password%20generator.py)
